@@ -121,19 +121,20 @@ Post: post_id, have_item, want_item, date_posted, user_id (FK)
 Request: request_id, post_id (FK), sender_id (FK), receiver_id (FK), status
 Review: review_id, rating, comment, user_id (FK)
 🔁 Transition Table
-<img width="515" height="624" alt="Image" src="https://github.com/user-attachments/assets/60e08f13-489b-4353-951e-96082a55ee5d" />
+<img width="515" height="624" alt="Image" src="https://github.com/user-attachments/assets/7d72599e-522e-4e09-ae9c-9302605cc3fd" />
 
-<img width="543" height="820" alt="Image" src="https://github.com/user-attachments/assets/33ad751d-2ec6-426c-a11a-2dd4c6527ec7" />
+<img width="543" height="820" alt="Image" src="https://github.com/user-attachments/assets/c1963b7d-f6b9-4b94-8d8d-245f1bc87db7" />
 
-<img width="688" height="782" alt="Image" src="https://github.com/user-attachments/assets/4f424025-eeaa-4761-8d45-dea6477cf3bd" />
+<img width="688" height="782" alt="Image" src="https://github.com/user-attachments/assets/4dd23373-7644-4f28-9990-24a8b6e61599" />
 
-<img width="688" height="806" alt="Image" src="https://github.com/user-attachments/assets/8d2e351a-9c2f-4037-8fa4-eb7e07678f7c" />
+<img width="688" height="806" alt="Image" src="https://github.com/user-attachments/assets/acd6e26c-03fd-451b-9bb1-87f02d405dcd" />
 
-<img width="535" height="814" alt="Image" src="https://github.com/user-attachments/assets/d3021ecb-fce0-45e9-88b7-ba0662db6b07" />
+<img width="535" height="814" alt="Image" src="https://github.com/user-attachments/assets/a7777894-68d7-4289-a095-90701fef708a" />
 
-<img width="655" height="917" alt="Image" src="https://github.com/user-attachments/assets/deaa5002-d1af-44d6-bbf3-edee286cb4c4" />
+<img width="655" height="917" alt="Image" src="https://github.com/user-attachments/assets/2b316e2a-5be8-49f6-8168-119d0d138476" />
 
-<img width="526" height="906" alt="Image" src="https://github.com/user-attachments/assets/ff72b435-4d20-4754-b624-c1243a58171e" />
+<img width="526" height="906" alt="Image" src="https://github.com/user-attachments/assets/45725163-02c9-4ca3-9268-d4919de15a78" />
+
 Conclusion
 
 The Gazette Exchange System provides a simple and effective way to exchange goods without money.
