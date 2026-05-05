@@ -121,6 +121,29 @@ Post: post_id, have_item, want_item, date_posted, user_id (FK)
 Request: request_id, post_id (FK), sender_id (FK), receiver_id (FK), status
 Review: review_id, rating, comment, user_id (FK)
 🔁 Transition Table
+<img width="515" height="624" alt="Image" src="https://github.com/user-attachments/assets/60e08f13-489b-4353-951e-96082a55ee5d" />
+
+<img width="543" height="820" alt="Image" src="https://github.com/user-attachments/assets/33ad751d-2ec6-426c-a11a-2dd4c6527ec7" />
+
+<img width="688" height="782" alt="Image" src="https://github.com/user-attachments/assets/4f424025-eeaa-4761-8d45-dea6477cf3bd" />
+
+<img width="688" height="806" alt="Image" src="https://github.com/user-attachments/assets/8d2e351a-9c2f-4037-8fa4-eb7e07678f7c" />
+
+<img width="535" height="814" alt="Image" src="https://github.com/user-attachments/assets/d3021ecb-fce0-45e9-88b7-ba0662db6b07" />
+
+<img width="655" height="917" alt="Image" src="https://github.com/user-attachments/assets/deaa5002-d1af-44d6-bbf3-edee286cb4c4" />
+
+<img width="526" height="906" alt="Image" src="https://github.com/user-attachments/assets/ff72b435-4d20-4754-b624-c1243a58171e" />
+Conclusion
+
+The Gazette Exchange System provides a simple and effective way to exchange goods without money.
+
+It:
+
+Improves resource utilization
+Encourages community sharing
+Demonstrates real-world database implementation
+Showcases UI design and C# integration
 
 
 
