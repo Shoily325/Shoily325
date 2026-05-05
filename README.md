@@ -143,7 +143,7 @@ It:
 Improves resource utilization
 Encourages community sharing
 Demonstrates real-world database implementation
-Showcases UI design and C# integration
+Showcases UI design and C# integration.
 
 
 
